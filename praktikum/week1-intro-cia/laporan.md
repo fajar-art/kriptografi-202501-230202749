@@ -2,9 +2,9 @@
 Minggu ke-: X  
 Topik: [judul praktikum]  
 Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
+NIM: [NIM Mahasiswa]  kjhiuhiuh
 Kelas: [Kelas]  
-
+sersre
 ---
 
 ## 1. Tujuan

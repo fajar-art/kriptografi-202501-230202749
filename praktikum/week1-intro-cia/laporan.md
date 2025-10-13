@@ -127,6 +127,7 @@ Kriptografi modern menggunakan operasi matematis kompleks dan dapat diterapkan p
 
 Lampiran
 ![bukti](weak1.png)
+,
 
 ---
 

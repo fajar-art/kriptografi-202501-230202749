@@ -1,6 +1,6 @@
 # Laporan Praktikum Kriptografi
 
-Minggu ke-: X  
+Minggu ke-: 1  
 Topik: Sejarah Kriptografi & Prinsip CIA
 Nama: Fajar Saputro
 NIM: 230202749
@@ -105,7 +105,9 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 7. Jawaban Pertanyaan
+
 ---
+
 Pertanyaan 1: Siapa tokoh yang dianggap sebagai bapak kriptografi modern?
 
 Tokoh yang dianggap sebagai bapak kriptografi modern adalah Whitfield Diffie dan Martin Hellman.
@@ -123,7 +125,7 @@ Pertanyaan 3: Apa perbedaan utama antara kriptografi klasik dan kriptografi mode
 Perbedaan utama antara kriptografi klasik dan kriptografi modern terletak pada kompleksitas algoritma dan jenis kunci yang digunakan:
 
 Kriptografi klasik menggunakan teknik sederhana seperti substitusi dan transposisi huruf, misalnya Caesar Cipher dan Vigenère Cipher. Sistem ini hanya cocok untuk teks dan mudah dipecahkan dengan analisis frekuensi.
-Kriptografi modern menggunakan operasi matematis kompleks dan dapat diterapkan pada data digital dalam berbagai format. Contohnya, AES (Advanced Encryption Standard) untuk enkripsi simetris, dan RSA atau ECC untuk sistem kunci publik. Kriptografi modern jauh lebih aman karena berbasis teori matematika dan komputasi yang 
+Kriptografi modern menggunakan operasi matematis kompleks dan dapat diterapkan pada data digital dalam berbagai format. Contohnya, AES (Advanced Encryption Standard) untuk enkripsi simetris, dan RSA atau ECC untuk sistem kunci publik. Kriptografi modern jauh lebih aman karena berbasis teori matematika dan komputasi yang
 sulit dipecahkan secara brute force.
 
 ---

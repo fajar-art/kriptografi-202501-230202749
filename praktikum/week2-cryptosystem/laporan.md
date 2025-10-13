@@ -91,7 +91,7 @@ if __name__ == "__main__":
 ---
 
 Hasil eksekusi program Caesar Cipher:
-Proses Encrypt: Pesan berhasil ter enkripsi.yang awallnya "Fajar Saputro" diubah menjadi ciphertext dengan algoritma +5 atau geser lima angka setelahnya sebagai key atau kuncinya menjadi "Kfofw Xfuzywt"
+Proses Encrypt: Pesan berhasil ter enkripsi.yang awalnya "Fajar Saputro" diubah menjadi ciphertext dengan algoritma +5 atau geser lima angka setelahnya sebagai key atau kuncinya menjadi "Kfofw Xfuzywt"
 Proses Decrypt:
 Pesan berhasil ter deskripsi.yang awallnya ciphertext "Kfofw Xfuzywt" diubah menjadi plaintext dengan algoritma +5 atau geser lima angka setelahnya sebagai key atau kuncinya menjadi "Fajar Saputro"
 

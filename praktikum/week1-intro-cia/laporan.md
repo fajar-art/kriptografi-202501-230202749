@@ -1,7 +1,7 @@
 # Laporan Praktikum Kriptografi
 
 Minggu ke-: X  
-Topik: [judul praktikum]  
+Topik: Sejarah Kriptografi & Prinsip CIA
 Nama: Fajar Saputro
 NIM: 230202749
 Kelas: 5IKRB
@@ -96,7 +96,7 @@ Ketiga pilar ini saling melengkapi dan tidak dapat dipisahkan dalam membangun si
 - Bahas error (jika ada) dan solusinya.
 
 Hasil eksekusi program Caesar Cipher:
-
+![bukti](weak1.png)
 ![Hasil Eksekusi](screenshots/output.png)
 ![Hasil Input](screenshots/input.png)
 ![Hasil Output](screenshots/output.png)
@@ -105,7 +105,7 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 7. Jawaban Pertanyaan
-
+---
 Pertanyaan 1: Siapa tokoh yang dianggap sebagai bapak kriptografi modern?
 
 Tokoh yang dianggap sebagai bapak kriptografi modern adalah Whitfield Diffie dan Martin Hellman.
@@ -123,11 +123,8 @@ Pertanyaan 3: Apa perbedaan utama antara kriptografi klasik dan kriptografi mode
 Perbedaan utama antara kriptografi klasik dan kriptografi modern terletak pada kompleksitas algoritma dan jenis kunci yang digunakan:
 
 Kriptografi klasik menggunakan teknik sederhana seperti substitusi dan transposisi huruf, misalnya Caesar Cipher dan Vigenère Cipher. Sistem ini hanya cocok untuk teks dan mudah dipecahkan dengan analisis frekuensi.
-Kriptografi modern menggunakan operasi matematis kompleks dan dapat diterapkan pada data digital dalam berbagai format. Contohnya, AES (Advanced Encryption Standard) untuk enkripsi simetris, dan RSA atau ECC untuk sistem kunci publik. Kriptografi modern jauh lebih aman karena berbasis teori matematika dan komputasi yang sulit dipecahkan secara brute force.
-
-Lampiran
-![bukti](weak1.png)
-,
+Kriptografi modern menggunakan operasi matematis kompleks dan dapat diterapkan pada data digital dalam berbagai format. Contohnya, AES (Advanced Encryption Standard) untuk enkripsi simetris, dan RSA atau ECC untuk sistem kunci publik. Kriptografi modern jauh lebih aman karena berbasis teori matematika dan komputasi yang 
+sulit dipecahkan secara brute force.
 
 ---
 

@@ -125,9 +125,14 @@ Perbedaan utama antara kriptografi klasik dan kriptografi modern terletak pada k
 Kriptografi klasik menggunakan teknik sederhana seperti substitusi dan transposisi huruf, misalnya Caesar Cipher dan Vigenère Cipher. Sistem ini hanya cocok untuk teks dan mudah dipecahkan dengan analisis frekuensi.
 Kriptografi modern menggunakan operasi matematis kompleks dan dapat diterapkan pada data digital dalam berbagai format. Contohnya, AES (Advanced Encryption Standard) untuk enkripsi simetris, dan RSA atau ECC untuk sistem kunci publik. Kriptografi modern jauh lebih aman karena berbasis teori matematika dan komputasi yang sulit dipecahkan secara brute force.
 
+Lampiran
+![bukti](weak1.png)
+
 ---
 
 ## 8. Kesimpulan
+
+Dari praktikum ini dapat disimpulkan bahwa kriptografi mengalami evolusi besar dari metode sederhana seperti Caesar Cipher menjadi sistem keamanan digital canggih seperti RSA, AES, dan blockchain. Selain itu, tiga pilar utama keamanan informasi — Confidentiality, Integrity, dan Availability — berperan penting dalam menjaga keamanan, keaslian, serta aksesibilitas data pada era digital modern.
 
 ## Dari praktikum ini dapat disimpulkan bahwa kriptografi mengalami kemajuan besar mulai dari metode sederhana (Caesar Cipher) menjadi sistem keamanan digital canggih seperti RSA, AES, dan blockchain. Selain itu, tiga pilar utama keamanan informasi — Confidentiality, Integrity, dan Availability — berperan penting dalam menjaga keamanan, keaslian, serta aksesibilitas data pada era digital modern.
 

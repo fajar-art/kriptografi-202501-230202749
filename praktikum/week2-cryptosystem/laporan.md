@@ -22,7 +22,7 @@ Kriptografi adalah ilmu dan seni yang berguna untuk menjaga keamanan informasi d
 
 dalam kriptosistem ada empat elemen utama, yaitu plaintext, ciphertext, kunci, dan algoritma. Plaintext yaitu pesan aslinya, ciphertext adalah hasil enkripsi, kunci (key) sebagai parameter proses enkripsi dan dekripsi, sedangkan algoritma merupakan rumus atau metode yang digunakan untuk melakukan kedua proses tersebut.
 
-## Dalam praktiknya, kriptografi terbagi menjadi dua jenis utama: kriptosistem simetris dan kriptosistem asimetris. Pada sistem simetris, kunci yang digunakan untuk enkripsi dan dekripsi adalah sama, contohnya AES atau DES. Sedangkan pada sistem asimetris, digunakan dua kunci berbeda (publik dan privat) seperti pada algoritma RSA atau ECC.
+Dalam praktiknya, kriptografi terbagi menjadi dua jenis utama: kriptosistem simetris dan kriptosistem asimetris. Pada sistem simetris, kunci yang digunakan untuk enkripsi dan dekripsi adalah sama, contohnya AES atau DES. Sedangkan pada sistem asimetris, digunakan dua kunci berbeda (publik dan privat) seperti pada algoritma RSA atau ECC.
 
 ## 3. Alat dan Bahan
 

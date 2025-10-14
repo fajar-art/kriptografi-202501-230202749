@@ -12,6 +12,7 @@ def gcd(a, b):
         a, b = b, a % b
     return a
 
+
 print("gcd(54, 24) =", gcd(54, 24))
 def egcd(a, b):
     if a == 0:

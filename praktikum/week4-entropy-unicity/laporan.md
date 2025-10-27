@@ -22,8 +22,11 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 
 ## 2. Dasar Teori
 
-(Ringkas teori relevan (cukup 2–3 paragraf).  
-Contoh: definisi cipher klasik, konsep modular aritmetika, dll. )
+Entropy dan unicity distance digunakan untuk mengevaluasi kekuatan suatu kunci dalam sistem kriptografi. Entropy menggambarkan tingkat keacakan kunci—semakin tinggi nilai entropinya, semakin sulit kunci ditebak oleh penyerang. Nilai ini biasanya dinyatakan dalam bit dan menunjukkan seberapa besar ruang kemungkinan kunci yang ada. Kunci dengan entropi rendah mudah diprediksi, sehingga berisiko terhadap serangan brute force.
+
+Unicity distance menunjukkan jumlah minimum ciphertext yang dibutuhkan agar kunci dapat ditentukan secara unik secara teoritis. Jika panjang ciphertext masih di bawah nilai ini, cipher dianggap aman karena banyak kemungkinan kunci masih dapat menghasilkan plaintext yang tampak masuk akal. Dalam cipher klasik seperti Vigenère atau Caesar, unicity distance cenderung rendah karena pola bahasa mudah dikenali.
+
+Kedua konsep ini penting untuk menilai ketahanan cipher terhadap brute force attack, yaitu percobaan semua kemungkinan kunci. Meski algoritma modern seperti AES sangat kuat, serangan brute force tetap relevan bila entropi kunci rendah atau implementasi tidak benar. Dengan demikian, kunci acak dengan entropi tinggi dan panjang ciphertext yang memadai menjadi dasar utama keamanan kriptografi.
 
 ---
 

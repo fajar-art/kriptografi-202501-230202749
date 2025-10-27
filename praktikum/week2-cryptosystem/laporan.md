@@ -96,8 +96,8 @@ Proses Decrypt:
 Pesan berhasil ter deskripsi.yang awallnya ciphertext "Kfofw Xfuzywt" diubah menjadi plaintext dengan algoritma +5 atau geser lima angka setelahnya sebagai key atau kuncinya menjadi "Fajar Saputro"
 
 Lampiran
-![Hasil Eksekusi](hasil_code.png)
-![Gambar diagra,](tabel.png)
+![Hasil Eksekusi](screenshots/hasil_code.png)
+![Gambar diagram](screenshots/tabel.png)
 
 ---
 

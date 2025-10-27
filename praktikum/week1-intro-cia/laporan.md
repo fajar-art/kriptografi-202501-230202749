@@ -96,8 +96,7 @@ Ketiga pilar ini saling melengkapi dan tidak dapat dipisahkan dalam membangun si
 - Bahas error (jika ada) dan solusinya.
 
 Hasil eksekusi program Caesar Cipher:
-![bukti](weak1.png)
-![Hasil Eksekusi](screenshots/output.png)
+![Hasil Eksekusi](screenshots/weak1.png)
 ![Hasil Input](screenshots/input.png)
 ![Hasil Output](screenshots/output.png)
 )

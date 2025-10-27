@@ -90,7 +90,7 @@ Hasil eksekusi program Caesar Cipher:
 - Pertanyaan 2: Unicity Distance
   Jumlah minimum ciphertext agar kunci bisa ditentukan secara unik.
   Jika ciphertext < unicity distance → cipher masih aman.
-  -Pertanyaan 3: Brute Force Masih Ancaman
+- Pertanyaan 3: Brute Force Masih Ancaman
   Karena kunci sering lemah, manusia ceroboh, dan teknologi makin cepat — meski algoritma kuat.
   )
 

@@ -101,7 +101,7 @@ Hasil eksekusi program Caesar Cipher:
 
 ## 8. Kesimpulan
 
-(Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan. )
+Berdasarkan percobaan, semakin tinggi nilai entropi, semakin kuat kunci terhadap serangan brute force karena ruang kemungkinan kunci makin besar. Nilai unicity distance menunjukkan batas keamanan teoritis cipher; jika ciphertext lebih pendek dari nilai ini, kunci masih sulit ditebak. Dengan demikian, kunci acak dan panjang sangat penting untuk menjaga keamanan sistem kriptografi.
 
 ---
 

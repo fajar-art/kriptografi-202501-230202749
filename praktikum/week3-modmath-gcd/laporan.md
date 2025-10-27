@@ -107,7 +107,7 @@ Contoh output terminal:
 5. Invers 3 mod 11 = 4
 6. 3^x ≡ 4 (mod 7), x = 4
    Hasil sudah sesuai ekspektasi karena mengikuti aturan operasi modular dan algoritma Euclidean. Tidak ditemukan error selama eksekusi.
-   ![Hasil Eksekusi](modmath.png.png)
+   ![Hasil Eksekusi](screenshots/modmath.png)
    )
 
 ---

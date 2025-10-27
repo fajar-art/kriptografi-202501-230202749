@@ -76,7 +76,7 @@ def encrypt(text, key):
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](Hasil_Running_bruteforche.png)
+![Hasil Eksekusi](screenshots/Hasil_Running_bruteforche.png)
 )
 
 ---

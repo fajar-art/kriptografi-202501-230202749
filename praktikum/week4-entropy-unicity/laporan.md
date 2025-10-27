@@ -70,8 +70,14 @@ Hasil eksekusi program Caesar Cipher:
 
 ## 7. Jawaban Pertanyaan
 (Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
-- Pertanyaan 2: …  
+- Pertanyaan 1: Entropy (Kekuatan Kunci)
+Mengukur tingkat keacakan kunci.
+Semakin tinggi entropi → semakin sulit ditebak → kunci makin kuat.
+- Pertanyaan 2: Unicity Distance
+Jumlah minimum ciphertext agar kunci bisa ditentukan secara unik.
+Jika ciphertext < unicity distance → cipher masih aman.
+-Pertanyaan 3: Brute Force Masih Ancaman
+Karena kunci sering lemah, manusia ceroboh, dan teknologi makin cepat — meski algoritma kuat.
 )
 ---
 

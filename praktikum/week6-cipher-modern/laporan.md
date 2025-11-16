@@ -10,9 +10,7 @@ Kelas: [5IKRB]
 
 ## 1. Tujuan
 
-(
-    1. Mengimplementasikan algoritma DES untuk blok data sederhana.
-    2. Menerapkan algoritma AES dengan panjang kunci 128 bit.3. Menjelaskan proses pembangkitan kunci publik dan privat pada algoritma RSA.)
+( 1. Mengimplementasikan algoritma DES untuk blok data sederhana. 2. Menerapkan algoritma AES dengan panjang kunci 128 bit.3. Menjelaskan proses pembangkitan kunci publik dan privat pada algoritma RSA.)
 
 ---
 
@@ -144,8 +142,9 @@ Menggunakan kunci asimetris (public key dan private key berbeda). Keamanan RSA d
 
 Kesimpulannya:
 DES dan AES adalah simetris, RSA adalah asimetris. AES jauh lebih aman dibanding DES, dan RSA digunakan untuk pertukaran kunci dan tanda tangan digital, bukan untuk enkripsi data dalam jumlah besar karena lebih lambat.
+
 - Pertanyaan 2: …Mengapa AES lebih banyak digunakan dibanding DES di era modern?
-Kunci DES hanya 56-bit → rentan brute-force.
+  Kunci DES hanya 56-bit → rentan brute-force.
 
 AES memiliki struktur dan ukuran kunci yang jauh lebih kuat (128/192/256-bit).
 
@@ -153,7 +152,8 @@ AES lebih efisien di perangkat modern, dapat dipercepat oleh hardware.
 
 AES telah menjadi standar internasional (NIST) dan sudah terbukti tahan terhadap berbagai jenis serangan kriptografi modern.
 
-Intinya: DES sudah tidak aman, AES sangat aman dan cepat, sehingga AES menjadi pilihan utama saat ini. 
+Intinya: DES sudah tidak aman, AES sangat aman dan cepat, sehingga AES menjadi pilihan utama saat ini.
+
 - Pertanyaan 3: Mengapa RSA dikategorikan sebagai algoritma asimetris dan bagaimana proses pembangkitan kuncinya?
 
 RSA dikategorikan asimetris karena menggunakan pasangan kunci berbeda:
@@ -182,7 +182,7 @@ Hasil:
 Public key = (e, n)
 
 Private key = (d, n)  
-  )
+ )
 
 ---
 
@@ -192,8 +192,7 @@ Pada praktikum ini telah berhasil dilakukan implementasi tiga algoritma kriptogr
 
 Implementasi AES dengan kunci 128-bit terbukti berjalan lebih baik dan lebih aman, sekaligus menunjukkan efisiensi serta kekuatan enkripsi yang menjadikannya standar utama dalam kriptografi modern untuk melindungi data secara simetris. Sementara itu, implementasi algoritma RSA memberi gambaran bagaimana konsep kunci publik dan privat bekerja untuk keamanan asimetris, khususnya dalam proses enkripsi, dekripsi, dan pertukaran kunci secara aman.
 
-Dari keseluruhan percobaan, dapat disimpulkan bahwa kriptografi modern mengutamakan keamanan berbasis panjang kunci yang kuat dan struktur algoritma yang tahan terhadap serangan brute-force maupun analisis kriptografi lainnya. Dengan demikian, AES dan RSA menjadi pilihan utama dalam berbagai sistem keamanan informasi terkini, sedangkan DES sudah tidak direkomendasikan lagi karena kelemahannya yang mudah dieksploitasi.
----
+## Dari keseluruhan percobaan, dapat disimpulkan bahwa kriptografi modern mengutamakan keamanan berbasis panjang kunci yang kuat dan struktur algoritma yang tahan terhadap serangan brute-force maupun analisis kriptografi lainnya. Dengan demikian, AES dan RSA menjadi pilihan utama dalam berbagai sistem keamanan informasi terkini, sedangkan DES sudah tidak direkomendasikan lagi karena kelemahannya yang mudah dieksploitasi.
 
 ## 9. Daftar Pustaka
 

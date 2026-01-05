@@ -157,9 +157,9 @@ Contoh:
 ## 10. Commit Log
 
 ```
-commit abc12345
+commit week11-secretsharing
 Author: Fajar Saputro <fajarsaputro82@gmail.com>
 Date:   2025-09-20
 
-    week11-cryptosystem: implementasi secret sharing dan laporan )
+    week11-secretsharing: implementasi secret sharing dan laporan )
 ```

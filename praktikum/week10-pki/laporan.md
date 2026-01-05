@@ -91,7 +91,7 @@ print("Sertifikat digital berhasil dibuat: cert.pem")
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](screenshots/image.png)
+![Hasil Eksekusi](screenshoots/image.png)
 )
 
 ---
